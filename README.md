@@ -16,3 +16,5 @@ edentulous areas, identifying the condition of each tooth within the X-ray using
 bounding boxes for disease localization. In conclusion, this optimized ResNet-50-
 based model, leveraging transfer learning, proves to be highly effective in dental
 diagnostics, reducing clinical workload while enhancing treatment outcomes.
+
+## Functional diagram
