@@ -19,3 +19,10 @@ diagnostics, reducing clinical workload while enhancing treatment outcomes.
 
 ## Functional diagram
 ![Screenshot 2024-10-04 211741](https://github.com/user-attachments/assets/27ad8f55-8f5e-461e-a84d-46dd23cb0ae1)
+
+## Requirement
+1. jupyter notebook
+2. Panoramic X-ray Image
+
+## Outcome
+![Screenshot 2025-06-12 091254](https://github.com/user-attachments/assets/df3c1ece-7df9-40ba-9752-5eb23429e7d3)
