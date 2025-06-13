@@ -18,3 +18,4 @@ based model, leveraging transfer learning, proves to be highly effective in dent
 diagnostics, reducing clinical workload while enhancing treatment outcomes.
 
 ## Functional diagram
+https://github.com/SaranyaR-btech/Multi-classification-of-dental-diseases-using-x-ray-images/issues/url
